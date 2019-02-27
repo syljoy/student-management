@@ -1,6 +1,6 @@
 # student-management
 # 学生管理系统
-### 运行环境
+### 1.运行环境
 - JDK 1.8
 -  MySQL 5.6
 ---
